@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Overpass:wght@100&family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jura&display=swap');
+
+#test1 {
+color: red;
+font-family: Overpass;
+font-size: 30px;
+}
+
+#test2 {
+color: blue;
+font-family: 'Press Start 2P';
+font-size: 20px;
+}
+
+#test3 {
+    color:blue;
+    font-family: Jura;
+    font-size: 20px;
+}
